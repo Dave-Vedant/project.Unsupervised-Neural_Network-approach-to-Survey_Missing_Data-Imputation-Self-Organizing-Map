@@ -17,8 +17,8 @@ Software Toolkit: Orange (data mining, machine learning)
 	Use gaussian function and train the model using parameters of neighborhood function with measurement of BMU (neuron u) and neuron v.
 . 
 ### Parameters:
-1 Initial Width (w)
-2 learning rate (∝), for better time profile and fast optimization 
+[1] Initial Width (w)
+[2] learning rate (∝), for better time profile and fast optimization 
 
 ### Used Notations:
 These are the variables needed, with vectors in ‘bold’
