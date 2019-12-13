@@ -106,11 +106,4 @@
 <p></p>
 <!-- /wp:paragraph -->
 
-### Work challenges: 
-1] Space complexity: For dealing with the big datasets as well as iterative process produce shortage of the local environment space.
-2] Data cleaning, Pattern recognition is complex task
-3] Computational complexity: T = O(N*C) = O(S2), with increase of the vector and matrix size the complexity increase due to depend on no. of rows and columns. In term of row and columns its 0(m*n)
 
-### Achievements:
-	Use NRMS and AE method for identify the error and accuracy percentage. Our goal is to keep NRMS near to 1 and AE must be more than 1. We achieve accuracy between 75 to 90 percent. However, we can not manage some dataset due to inefficient time and space availability problem. 
-	But, successfully Identify the measurement weakness of SOM, that with increase of missing rate the accuracy decreases significantly. 
